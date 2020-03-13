@@ -9,7 +9,7 @@ Fork the repo or just download the content of the `WindowsPowerShell` folder int
 
 # How does it work?
 
-The profile gets executing the `Microsoft.Powershell_profile.ps1` [(powershell magic)](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-6).
+The profile gets executing the `profile.ps1` (previously: `Microsoft.Powershell_profile.ps1`) [(powershell magic)](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-6).
 This script currenly does 2 things. 
 * It gives me an easy alias on my notepad++ 
 * It imports my module **J-GirlPower** (spoiler: yes, I'm female).
